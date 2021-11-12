@@ -1,0 +1,2 @@
+1. docker build -t ejercicio1 .
+2. docker run --name ejercicio1_cont -p 0.0.0.0:3000:3000 ejercicio1
